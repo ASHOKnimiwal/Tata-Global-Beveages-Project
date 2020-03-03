@@ -1,4 +1,4 @@
-# New-Germany Fund Stock Prediction
+# Tata Global Beverages Stock Prediction
 
 Introduction
 
