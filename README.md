@@ -1,4 +1,4 @@
-# New-_Germany_Project
+# New-Germany Fund Stock Prediction
 
 Introduction
 
